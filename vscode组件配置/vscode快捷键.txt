@@ -1,0 +1,33 @@
+F1 打开可以输入命令
+F2 重命名变量，方便重构
+F5 运行和调试代码
+F12 去到定义的地方
+shift+F12 查找所有引用
+ctrl+g 会让你输入数字，快速定位到指定行
+ctrl+enter 在下方另起一行
+crtl+f 查找
+ctrl+shift+n 多开一个 vscode 编辑器
+ctrl+b 开关侧边栏
+ctrl+h 替换
+ctrl+r 打开最近文件
+ctrl+` 终端
+ctrl+tab 切换文件
+ctrl+shift+e 切到资源管理器
+ctrl+p 快速打开文件
+ctrl+[ 左移代码
+ctrl+] 右移代码
+ctrl+/ 行注释
+ctrl+t 匹配文本来打开文件
+ctrl+shift+t 重新打开关闭的文件
+ctrl+shift+home/end 选择光标左侧/右侧全部内容
+ctrl+backspace 删除上一个词
+ctrl+delete 删除光标右侧的词
+ctrl+左/右 跳到上/下一个词
+ctrl+shift+左/右 逐个选词
+鼠标滚轮或者shift+alt+鼠标拖拽 批量选中，方块选择
+ctrl+shift+pageup/pagedown 切换文件
+ctrl+d 选中当前词语
+ctrl+enter 下方插入一行
+alt+左/右箭头 跳回来/过去
+alt+shift+上/下箭头 向上/下复制行
+
